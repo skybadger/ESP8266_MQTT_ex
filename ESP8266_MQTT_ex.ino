@@ -28,9 +28,9 @@ unsigned long NTPseconds; //since 1970
 
 //Strings
 const char* ssid = "Skybadger Away";
-const char* password = "This is Skybadger Away";
+const char* password = "";
 const char* pubsubUserID = "publicbadger";
-const char* pubsubUserPwd = "alltooeasy";
+const char* pubsubUserPwd = "";
 const char* mqtt_server = "192.168.1.136";
 const char* thisID = "BadgerIoT1";
 const char* outTopic = "Skybadger/IoT/Devices/";
